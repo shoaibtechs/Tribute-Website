@@ -17,3 +17,6 @@ External link to Imran Khan's Wikipedia page
 
 📷 Preview:
 A clean and minimal tribute page with a light purple theme and centered content layout.
+
+![Screenshot of Tribute Website](assets/ik.png)
+
